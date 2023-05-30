@@ -1,5 +1,4 @@
 @import url("formulario.css");
-@import url("cadastro.css");
 
 :root {
     --cor-de-fundo: #EBECEE;
@@ -8,8 +7,6 @@
     --fonte-principal:'Source Sans Pro', sans-serif;
     --azul: #008080;
     --fonte-secundario: "Josefin Sans";
-    --preto: #000000;
-    --vermelho: #D94937;
 }
 
 body {
